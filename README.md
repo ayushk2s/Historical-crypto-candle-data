@@ -67,13 +67,19 @@ Interval
 
 Meaning
 
-1m = 1 Minute
-5m = 5 Minutes
-15m = 15 Minutes
-1h = 1 Hour
-4h = 4 Hours
-1d = 1 Day
-1w = 1 Week
+1m = 1 Minute;
+
+5m = 5 Minutes;
+
+15m = 15 Minutes;
+
+1h = 1 Hour;
+
+4h = 4 Hours;
+
+1d = 1 Day;
+
+1w = 1 Week;
 
 Notes
 
